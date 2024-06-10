@@ -12,3 +12,10 @@ List them on the next line each
 Pick Order
 
 Enter to run
+
+## BFS
+Says the available nodes and asks for start point
+
+Asks for destination
+
+Provides the Unique Node Paths to it
