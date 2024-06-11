@@ -20,4 +20,21 @@ Asks for destination
 
 Provides the Unique Node Paths to it
 
-## Added New 
+## Time & Space Complexity for BFS
+Time Complexity
+All Cases: O(V + E)
+V is the number of vertices
+E is the number of edges
+
+Space Complexity: O(n)
+n is the number of nodes
+
+## Time & Space Complexity for Insertion sort
+Time Complexity
+Worst and Average Case: O(n^2)
+Best Case: O(n)
+
+Space Complexity
+All Cases: O(n)
+
+n is the number of nodes in the array
